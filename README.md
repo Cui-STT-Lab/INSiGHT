@@ -9,5 +9,5 @@ Please run the following codes in R to install STANCE package from GitHub.
 if (!require("devtools", quietly = TRUE)){
   install.packages("devtools")
 }
-devtools::install_github("HaroldSu/INSiGHT")
+devtools::install_github("Cui-STT-Lab/INSiGHT")
 ```
